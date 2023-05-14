@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IPL.Program">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IPL.Logic.Main.Interpreter">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logic\Main\Interpreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IPL.Logic.Main.Lexer">
+    <Position X="4.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAoAAAIAAAAACAEAAACAAAAAAA=</HashCode>
+      <FileName>Logic\Main\Lexer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IPL.Logic.Main.Parser">
+    <Position X="6.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAkgAgAACAACAgJEAAQAIAABAAAAJAAAAAACAAAAEAA=</HashCode>
+      <FileName>Logic\Main\Parser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IPL.Helpers.WebModule">
+    <Position X="10.5" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAABBAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\WebModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

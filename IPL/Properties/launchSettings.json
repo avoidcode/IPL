@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IPL": {
+      "commandName": "Project",
+      "commandLineArgs": "-v program.ipl"
+    }
+  }
+}
